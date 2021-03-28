@@ -4,7 +4,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Sources](#sources)
 
 ## General info
 A program for playing with the Morse alphabet. 
@@ -27,7 +26,3 @@ $ random install
 Clone the repository:
 $ git https://github.com/Nstrzelczyk/PlayWithMorseCode
 ```
-
-## Sources
-This app is inspired by "Python, kurs programowania na prostych przykładach" Komputer Świat.
-This app is inspired by "Python, kurs programowania na prostych przykładach", Komputer Świat.
